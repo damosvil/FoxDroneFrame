@@ -1,5 +1,5 @@
 # FoxDroneFrame
-This is a 5 inch Floss Light frame to be used with EMAX 1606 4000kv motors, GF5125 or EMAX AVAN scimitar 5x2.6x3 props, 1100mah batteries and 20x20mm stacks. All meassures are in millimeters.
+This is a 58 grams 5 inch Floss Light frame to be used with EMAX 1606 4000kv motors, GF5125 or EMAX AVAN scimitar 5x2.6x3 props, 1100mah batteries and 20x20mm stacks. All meassures are in millimeters.
 
 The recommended esc configuration for these motors in Blheli_M is 48Khz pwm setting. Otherwise they overheat.
 
