@@ -7,6 +7,9 @@ Top plate is 2mm thick, bottom plate is 3mm thick, arms and reinforcements are 4
 
 This setup is 190 grams dry weight (no battery) and about 340 grams with 1100mah 4s battery.
 
+I have tested it with no reinforcements and with 6s 450 mah battery, giving a total weight of about 250 grams.
+In that configuration the drone is blazing fast.
+
 The motors max pull are 1040 grams each, so for this setup the max pull is 12 times the weight.
 
 During my tests I tried fiberglass reinforcements, because at a const of 30% of extraweight they offer better performance in terms of combined resistance to crashes.
