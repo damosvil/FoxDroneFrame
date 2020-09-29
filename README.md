@@ -14,7 +14,7 @@ In that configuration the drone is blazing fast.
 
 The motors max pull are 1040 grams each, so for this setup the max pull is 12 times the weight.
 
-During my tests I tried fiberglass reinforcements, because at a const of 30% of extraweight they offer better performance in terms of combined resistance to crashes.
+During my tests I tried fiberglass reinforcements, because at a cost of 30% of extraweight they offer better performance in terms of combined resistance to crashes.
 
 This work is for public domain. You are free to copy it, modify it or distribute it with no royalties, fees, and stuff like that.
 
